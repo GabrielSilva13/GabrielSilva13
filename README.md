@@ -1,0 +1,5 @@
+- 👋 Olá, Me chamo Gabriel.
+- 👀 Estudando para ser um dev melhor a cada dia.
+- 🌱 Estudando php pra ir no caminho full stack
+- 💞️ Estou procurando meu primeiro serviço como dev em alguma empresa, já realizei alguns trabalhos freelancers
+- 📫 Pode me encontrar no instagram @gabriel_tsurai, ficarei feliz em conversar com você.
