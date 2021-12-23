@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/GabrielSilva13/GabrielSilva13/main/header.jpg)
+![Developer](https://raw.githubusercontent.com/GabrielSilva13/GabrielSilva13/main/header.png)
 # Olá, Me chamo Gabriel 🤟🏾
 
 Trilhando o caminho para me tornar um bom dev, e dar impulso para nosso futuro.
