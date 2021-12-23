@@ -1,5 +1,10 @@
-- 👋 Olá, Me chamo Gabriel.
-- 👀 Estudando para ser um dev melhor a cada dia.
-- 🌱 Estudando php pra ir no caminho full stack
-- 💞️ Estou procurando meu primeiro serviço como dev em alguma empresa, já realizei alguns trabalhos freelancers
-- 📫 Pode me encontrar no instagram @gabriel_tsurai, ficarei feliz em conversar com você.
+!(https://raw.githubusercontent.com/GabrielSilva13/GabrielSilva13/main/header.png)
+# Olá, Me chamo Gabriel 🤟🏾
+
+Trilhando o caminho para me tornar um bom dev, e dar impulso para nosso futuro.
+
+-📖 Atualmente estudando desenvolvimento web afim de se tornar um dev fullstack
+-💓 Sempre desenvolvendo com muito carinho pensando na UX e deixando o código bem limpo
+-👥 Buscando sempre coloborar e trabalhar em equipe
+-🗣️ Me diga formas de melhorar meu conhecimento, sempre estou em busca de conhecimento
+-🤝🏾 Vamos nos conectar para crescer mais uma comunidade (https://www.linkedin.com/in/gabriel-gon%C3%A7alves-8586aa226/)
