@@ -1,10 +1,15 @@
 ![Deve](https://raw.githubusercontent.com/GabrielSilva13/GabrielSilva13/main/header.png)
-# Olá, Me chamo Gabriel 🤟🏾
+👋 Hi, I'm [Gabriel Gonçalves], a freelance front-end developer with a passion for crafting user-friendly web interfaces.
 
-Trilhando o caminho para me tornar um bom dev, e dar impulso para nosso futuro.
+🚀 I specialize in:
 
--📖 Atualmente estudando desenvolvimento web afim de se tornar um dev fullstack
--💓 Sempre desenvolvendo com muito carinho pensando na UX e deixando o código bem limpo
--👥 Buscando sempre coloborar e trabalhar em equipe
--🗣️ Me diga formas de melhorar meu conhecimento, sempre estou em busca de conhecimento
--🤝🏾 Vamos nos conectar para crescer mais uma comunidade (https://www.linkedin.com/in/gabriel-gon%C3%A7alves-8586aa226/)
+HTML, CSS, and JavaScript
+Popular libraries and frameworks like React and Next.js
+Ensuring usability for exceptional user experiences
+💬 I'm a clear and effective communicator, adept at managing client expectations and delivering projects on time.
+
+🕒 As a freelancer, I'm self-driven and adept at managing both my time and projects. I'm committed to excellence and pay meticulous attention to detail.
+
+🌟 Check out my portfolio: https://portfolio-sigma-ten-10.vercel.app/
+
+Let's collaborate on something amazing! 💡
