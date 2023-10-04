@@ -12,6 +12,8 @@ Ensuring usability for exceptional user experiences
 🕒 As a freelancer, I'm self-driven and adept at managing both my time and projects. I'm committed to excellence and pay meticulous attention to detail.
 
 🌟 Check out my portfolio: https://portfolio-sigma-ten-10.vercel.app/
+
+
 💻 Check out my linkedin profile: https://www.linkedin.com/in/gabriel-gon%C3%A7alves-8586aa226/
 
 Let's collaborate on something amazing! 💡
